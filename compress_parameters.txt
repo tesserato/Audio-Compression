@@ -1,8 +1,9 @@
-original_audio/voice_bass.wav   path to the .wav file to be compressed
+original_audio/violoncello.wav   path to the .wav file to be compressed
 
-10      number of temporal intervals in which the whole wave will be decomposed
+10    number of temporal intervals in which the whole wave will be decomposed
 4     number of coefficients to be used in the polynomials describing the envelope (for each subdivision)
 
 4     number of coefficients to be used in the polynomials describing the phase (for the whole wave)
 
-100     number of basic sinusoids into which the wave will be decomposed; roughly, the quality of the compression (higher is better)
+30    number of sinusoids to decompose the wave; roughly, the quality (higher is better)
+0     planning [0,1,2,3]: how long fftw lib can take to figure out the best fftw plan

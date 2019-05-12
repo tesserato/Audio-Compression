@@ -1,1 +1,2 @@
-tom_10_4_4_100.bin name of the file to decompress
+violoncello_30_10_4_4.bin  name of the file to decompress
+48000               fps of the reproduction
