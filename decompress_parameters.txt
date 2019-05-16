@@ -1,2 +1,2 @@
-violoncello_30_10_4_4.bin  name of the file to decompress
-48000               fps of the reproduction
+voice_alto_200_30_4_1_1.bin  name of the file to decompress
+44100               fps of the reproduction
